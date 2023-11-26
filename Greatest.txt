@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main() {
+    int a, b, c;
+
+    // Input three integers
+    printf("Enter three integers: ");
+    scanf("%d %d %d", &a, &b, &c);
+
+    // Find the greatest integer
+    int greatest = a;
+
+    if (b > greatest) {
+        greatest = b;
+    }
+
+    if (c > greatest) {
+        greatest = c;
+    }
+
+    // Display the result
+    printf("The greatest integer is: %d\n", greatest);
+
+    return 0;
+}
