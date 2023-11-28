@@ -3,3 +3,4 @@
 ![Magicsquare](https://github.com/Parv-s/Lab-work/assets/146922256/3fa29f5f-581a-45b0-95b0-30aa45a985dc)
 ![Greatest](https://github.com/Parv-s/Lab-work/assets/146922256/0334b151-a904-4b3d-b034-c00e065428ad)
 ![goto](https://github.com/Parv-s/Lab-work/assets/146922256/b28f3cc5-35ea-477f-ae7c-f9e0e7393b3e)
+![directrecursionfibonacci](https://github.com/Parv-s/Lab-work/assets/146922256/6dc5433a-5288-414b-9925-296652b68ac0)
