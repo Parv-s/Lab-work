@@ -5,3 +5,4 @@
 ![goto](https://github.com/Parv-s/Lab-work/assets/146922256/b28f3cc5-35ea-477f-ae7c-f9e0e7393b3e)
 ![directrecursionfibonacci](https://github.com/Parv-s/Lab-work/assets/146922256/6dc5433a-5288-414b-9925-296652b68ac0)
 ![passbyvalue](https://github.com/Parv-s/Lab-work/assets/146922256/21e008d8-4d07-45c5-aa50-ad68e31936ac)
+![Screenshot1](https://github.com/Parv-s/Lab-work/assets/146922256/eb62965a-d2a5-405e-88cc-fdf38a64dafd)
