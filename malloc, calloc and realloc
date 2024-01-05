@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main()
+{
+    int *arr1, *arr2;
+    arr1 = (int *)malloc(5 * sizeof(int));
+    printf("Memory allocated by malloc: %p\n", (void *)arr1);
+    arr2 = (int *)calloc(5, sizeof(int));
+    printf("Memory allocated by calloc: %p\n", (void *)arr2);
+    arr1 = (int *)realloc(arr1, 10 * sizeof(int));
+    printf("Memory reallocated by realloc: %p\n", (void *)arr1);
+    free(arr1);
+    free(arr2);
+    return 0;
+}
