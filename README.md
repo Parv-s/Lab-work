@@ -1,4 +1,4 @@
-![Recursive](https://github.com/Parv-s/Lab-work/assets/146922256/a7764c00-6434-4501-bddf-b942ce0a0b83)
+![Screenshot 9](https://github.com/Parv-s/Lab-work/assets/146922256/c22278ee-7e84-4c8a-bce8-f15450a1dfcf)![Recursive](https://github.com/Parv-s/Lab-work/assets/146922256/a7764c00-6434-4501-bddf-b942ce0a0b83)
 ![Matrixaddition](https://github.com/Parv-s/Lab-work/assets/146922256/196abc81-0522-4015-905d-2fe9f07fbe0c)
 ![Magicsquare](https://github.com/Parv-s/Lab-work/assets/146922256/3fa29f5f-581a-45b0-95b0-30aa45a985dc)
 ![Greatest](https://github.com/Parv-s/Lab-work/assets/146922256/0334b151-a904-4b3d-b034-c00e065428ad)
@@ -13,3 +13,4 @@
 ![Screenshot 6](https://github.com/Parv-s/Lab-work/assets/146922256/4dcd7e61-d5e8-42f2-bc13-f2a1ea553eb1)
 ![Screenshot 7](https://github.com/Parv-s/Lab-work/assets/146922256/6d7de3d4-804d-4380-a305-1a60069fbfc8)
 ![Screenshot 8](https://github.com/Parv-s/Lab-work/assets/146922256/b035d142-82e4-4721-bb37-8132f7815d56)
+![Screenshot 9](https://github.com/Parv-s/Lab-work/assets/146922256/e8981034-15b0-4dd6-93f4-af6eeb1f8e69)
