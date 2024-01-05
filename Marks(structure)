@@ -1,0 +1,21 @@
+#include <stdio.h>
+#define MAX_SUBJECTS 5
+struct Student {
+    char name[50];
+    int marks[MAX_SUBJECTS];
+};
+int main() {
+    struct Student student1;
+    printf("Enter student name: ");
+    scanf("%s", student1.name);
+    for (int i = 0; i < MAX_SUBJECTS; ++i) {
+        printf("Enter marks for Subject %d: ", i + 1);
+        scanf("%d", &student1.marks[i]);
+    }
+    int totalMarks = 0;
+    for (int i = 0; i < MAX_SUBJECTS; ++i) {
+        totalMarks += student1.marks[i];
+    }
+    printf("Total marks for %s: %d\n", student1.name, totalMarks);
+    return 0;
+}
