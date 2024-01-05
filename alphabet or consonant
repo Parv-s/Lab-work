@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <ctype.h>
+
+int main() {
+    char alphabet;
+    printf("Enter an alphabet: ");
+    scanf(" %c", &alphabet);
+
+    if(isalpha(alphabet)) {
+        alphabet = tolower(alphabet);
+
+        if(alphabet == 'a' || alphabet == 'e' || alphabet == 'i' || alphabet == 'o' || alphabet == 'u') {
+            printf("The alphabet is a vowel.\n");
+        } else {
+            printf("The alphabet is a consonant.\n");
+        }
+    } else {
+        printf("The input is not an alphabet.\n");
+    }
+
+    return 0;
+}
