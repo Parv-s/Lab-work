@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    int array[10], i, maxIndex = 0, maxElement = 0;
+
+    printf("Enter 10 integers: ");
+    for(i = 0; i < 10; i++) {
+        scanf("%d", &array[i]);
+
+        if(array[i] > maxElement) {
+            maxElement = array[i];
+            maxIndex = i;
+        }
+    }
+
+    printf("Maximum element: %d\n", maxElement);
+    printf("Index of maximum element: %d\n", maxIndex);
+
+    return 0;
+}
