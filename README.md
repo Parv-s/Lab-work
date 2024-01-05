@@ -10,4 +10,5 @@
 ![Screenshot 3](https://github.com/Parv-s/Lab-work/assets/146922256/c57b41af-658e-4d93-adf1-61be186fa8cf)
 ![Screenshot 4](https://github.com/Parv-s/Lab-work/assets/146922256/4c6661c9-5ad3-486d-8e69-27f61158ef84)
 ![Screenshot 5](https://github.com/Parv-s/Lab-work/assets/146922256/dd9a220c-deaa-4be3-b833-0d087c2232a0)
-![Uploading Screenshot 6.png…]()
+![Screenshot 7](https://github.com/Parv-s/Lab-work/assets/146922256/2edca289-5079-4ddd-af7e-556620ff5f8)
+![Screenshot 6](https://github.com/Parv-s/Lab-work/assets/146922256/4dcd7e61-d5e8-42f2-bc13-f2a1ea553eb1)
