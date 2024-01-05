@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <math.h>
+int main() {
+    float r, a, b;
+    float area_circle, perimeter_circle;
+    float area_square, perimeter_square;
+    float area_rectangle, perimeter_rectangle;
+    printf("Enter circle radius: ");
+    scanf("%f", &r);
+    printf("Enter square side: ");
+    scanf("%f", &a);
+    printf("Enter rectangle sides: ");
+    scanf("%f %f", &a, &b);
+    area_circle = 3.14159 * r * r;
+    perimeter_circle = 2 * 3.14159 * r;
+    area_square = a * a;
+    perimeter_square = 4 * a;
+    area_rectangle = a * b;
+    perimeter_rectangle = 2 * (a + b);
+    printf("\nArea of Circle: %.2f\n", area_circle);
+    printf("Perimeter of Circle: %.2f\n", perimeter_circle);
+    printf("\nArea of Square: %.2f\n", area_square);
+    printf("Perimeter of Square: %.2f\n", perimeter_square);
+    printf("\nArea of Rectangle: %.2f\n", area_rectangle);
+    printf("Perimeter of Rectangle: %.2f\n", perimeter_rectangle);
+    return 0;
+}
