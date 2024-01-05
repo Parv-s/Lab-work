@@ -19,3 +19,4 @@
 ![Screenshot 12](https://github.com/Parv-s/Lab-work/assets/146922256/23e80245-a9e2-461f-afa7-41294119df57)
 ![Screenshot 13](https://github.com/Parv-s/Lab-work/assets/146922256/a70bf225-7752-44c9-9b17-16e169299330)
 ![Screenshot 14](https://github.com/Parv-s/Lab-work/assets/146922256/0036f253-936b-48da-a6e4-ba1a76a49e10)
+![Screenshot 15](https://github.com/Parv-s/Lab-work/assets/146922256/28d370ec-52a3-404f-b120-5c8d9d848dfa)
