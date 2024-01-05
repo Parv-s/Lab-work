@@ -1,0 +1,42 @@
+#include <stdio.h>
+struct Student {
+    char name[50];
+    int rollNumber;
+    float marks;
+};
+void displayStudent(struct Student student) {
+    printf("Name: %s\n", student.name);
+    printf("Roll Number: %d\n", student.rollNumber);
+    printf("Marks: %.2f\n", student.marks);
+    printf("\n");
+}
+void calculateAverage(struct Student students[], int size) {
+    float totalMarks = 0;
+    for (int i = 0; i < size; ++i) {
+        totalMarks += students[i].marks;
+    }
+    float average = totalMarks / size;
+    printf("Average Marks: %.2f\n", average);
+}
+int main() {
+    int numStudents;
+    printf("Enter the number of students: ");
+    scanf("%d", &numStudents);
+    struct Student studentArray[numStudents];
+    for (int i = 0; i < numStudents; ++i) {
+        printf("Enter details for student %d:\n", i + 1);
+        printf("Name: ");
+        scanf("%s", studentArray[i].name);
+        printf("Roll Number: ");
+        scanf("%d", &studentArray[i].rollNumber);
+        printf("Marks: ");
+        scanf("%f", &studentArray[i].marks);
+    }
+    printf("\nDetails of all students:\n");
+    for (int i = 0; i < numStudents; ++i) {
+        printf("Details for student %d:\n", i + 1);
+        displayStudent(studentArray[i]);
+    }
+    calculateAverage(studentArray, numStudents);
+    return 0;
+}
